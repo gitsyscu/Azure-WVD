@@ -65,7 +65,7 @@
   },
   {
     "Name": "InstallService",
-    "VDIState": "Enabled",
+    "VDIState": "Disabled",
     "Description": "Microsoft Store install service."
   },
   {
