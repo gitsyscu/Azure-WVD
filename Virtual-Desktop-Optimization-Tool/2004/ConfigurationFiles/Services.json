@@ -1,7 +1,7 @@
 [
   {
     "Name": "autotimesvc",
-    "VDIState": "Disabled",
+    "VDIState": "Enabled",
     "URL": "https://docs.microsoft.com/en-us/windows-hardware/drivers/network/mb-nitz-support",
     "Description": "Cellular Time service: this service sets time based on NITZ messages from a Mobile Network"
   },
@@ -13,7 +13,7 @@
   },
   {
     "Name": "CaptureService",
-    "VDIState": "Disabled",
+    "VDIState": "Enabled",
     "URL": "https://docs.microsoft.com/en-us/uwp/api/windows.graphics.capture?view=winrt-19041",
     "Description": "OneCore capture service: enables optional screen capture functionality for applications that call the Windows.Graphics.Capture API."
   },
@@ -124,7 +124,7 @@
   },
   {
     "Name": "UsoSvc",
-    "VDIState": "Disabled",
+    "VDIState": "Enabled",
     "Description": "Update Orchestrator service, manages Windows Updates. If stopped, your devices will not be able to download and install the latest updates."
   },
   {
